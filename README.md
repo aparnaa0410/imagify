@@ -1,4 +1,4 @@
-# text to Image geberator App
+# text to Image generator App
 
 A fullstack app using React + Express + MongoDB + ClipDrop API for AI image generation, with Razorpay for credit purchases.
 
